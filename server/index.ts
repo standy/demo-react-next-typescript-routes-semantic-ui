@@ -13,10 +13,10 @@ app.prepare()
 			const parsedUrl = parse(req.url, true);
 			const {pathname, query} = parsedUrl;
 
-			if (pathname === '/a') {
-				app.render(req, res, '/a', query)
-			} else if (pathname === '/b') {
-				app.render(req, res, '/b', query)
+			if (pathname === '/about') {
+				app.render(req, res, '/about', query)
+			} else if (pathname === '/form') {
+				app.render(req, res, '/form', query)
 			} else {
 				handle(req, res, parsedUrl)
 			}
