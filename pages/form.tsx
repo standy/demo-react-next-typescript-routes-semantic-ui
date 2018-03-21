@@ -4,7 +4,7 @@ import FormExampleSubcomponentControl from '../components/FormExampleSubcomponen
 
 const FormPage = () => (
 	<Layout title='FORM PAGE'>
-		<FormExampleSubcomponentControl />
+		<FormExampleSubcomponentControl onSubmit={(v) => console.log('SUBMITED!', v)} />
 	</Layout>
 );
 
