@@ -1,8 +1,9 @@
 {
   "scripts": {
     "dev": "nodemon server/index.ts",
+    "prod": "npm run build && npm start",
     "build": "next build && tsc --project tsconfig.server.json",
-    "start": "NODE_ENV=production node production-server/index.js"
+    "start": "set NODE_ENV=production&& node production-server/index.js"
   },
   "dependencies": {
     "next": "latest",
