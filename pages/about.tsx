@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 import Layout from '../components/Layout';
 import {delay} from '../components/utils';
 import {Button, Divider, Modal, Image, Icon, Header} from 'semantic-ui-react';
@@ -10,12 +11,9 @@ const A = ({delayedProps, url}) => (
 
 		<Divider />
 
-		<Button onClick={() => {
-			Router.push({
-				pathname: url.pathname,
-				query: {clicked: '1'},
-			});
-		}}>Click me</Button>
+		<Link href={{pathname: url.pathname, query: {clicked: '1'},}} passHref>
+			<Button as='a'>Click me</Button>
+		</Link>
 
 
 		<Modal open={url.query.clicked === '1'} onClose={() => {
