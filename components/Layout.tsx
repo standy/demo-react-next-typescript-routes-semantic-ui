@@ -20,6 +20,9 @@ const Layout = ({children, title = 'APP TITLE'}) => (
 				<Link href='/form' passHref>
 					<Menu.Item as='a'>FormPage</Menu.Item>
 				</Link>
+				<Link href='/demo' passHref>
+					<Menu.Item as='a'>DemoPage</Menu.Item>
+				</Link>
 			</Menu>
 		</nav>
 
