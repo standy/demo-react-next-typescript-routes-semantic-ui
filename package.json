@@ -8,6 +8,7 @@
   "dependencies": {
     "formik": "^0.11.11",
     "next": "latest",
+    "next-routes": "^1.4.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "semantic-ui-css": "^2.3.1",
