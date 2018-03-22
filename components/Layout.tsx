@@ -1,6 +1,7 @@
 import React from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
+import {Menu, Divider} from 'semantic-ui-react';
 
 const Layout = ({children, title = 'APP TITLE'}) => (
 	<div className="layout">
@@ -12,11 +13,17 @@ const Layout = ({children, title = 'APP TITLE'}) => (
 		</Head>
 
 		<nav>
-			<ul>
-				<li><Link href='/about' as='/about'><a>About</a></Link></li>
-				<li><Link href='/form' as='/form'><a>FormPage</a></Link></li>
-			</ul>
+			<Menu>
+				<Link href='/about' passHref>
+					<Menu.Item as='a'>About</Menu.Item>
+				</Link>
+				<Link href='/form' passHref>
+					<Menu.Item as='a'>FormPage</Menu.Item>
+				</Link>
+			</Menu>
 		</nav>
+
+		<Divider />
 
 		{children}
 
@@ -27,17 +34,7 @@ const Layout = ({children, title = 'APP TITLE'}) => (
 			}
 
 			nav {
-				margin: 20px 0;
-			}
-
-			nav ul {
-				margin: 0;
-				padding: 0;
-			}
-
-			nav li {
-				display: inline-block;
-				margin-right: 20px;
+				padding: 20px 0;
 			}
 		`}</style>
 	</div>
