@@ -1,4 +1,6 @@
 {
+  "name": "demo-react-next-typescript-routes-semantic-ui",
+  "version": "1.0.0",
   "scripts": {
     "dev": "nodemon server/index.ts",
     "prod": "npm run build && npm start",
