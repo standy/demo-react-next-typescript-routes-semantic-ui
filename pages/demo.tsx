@@ -2,6 +2,8 @@ import React from 'react';
 import Layout from '../components/Layout';
 import Combobox from '../components/Combobox';
 import {delay} from '../components/utils';
+import {Divider} from 'semantic-ui-react';
+import MyToggler from '../components/MyToggler';
 
 async function getListExample(input) {
 	const list = [
@@ -34,6 +36,11 @@ const DemoPage = ({url}) => (
 	<Layout title='DEMO'>
 
 		<Combobox getList={getListExample}/>
+
+		<Divider />
+
+		<a href="/demo?test=passed">click</a>
+        <MyToggler myOpen={url.query.test === 'passed'} />
 
 	</Layout>
 );
