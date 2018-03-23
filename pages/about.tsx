@@ -4,7 +4,7 @@ import Layout from '../components/Layout';
 import {delay} from '../components/utils';
 import {Button, Divider, Modal, Image, Icon, Header, Menu, Segment} from 'semantic-ui-react';
 
-const A = ({delayedProps, url}) => (
+const AboutPage = ({delayedProps, url}) => (
 	<Layout title='ABOUT'>
 		delayedProps: {delayedProps}
 
@@ -70,9 +70,9 @@ const A = ({delayedProps, url}) => (
 	</Layout>
 );
 
-(A as any).getInitialProps = async () => {
+(AboutPage as any).getInitialProps = async () => {
 	await delay(10);
 	return {delayedProps: 'passed'}
 };
 
-export default A;
+export default AboutPage;
