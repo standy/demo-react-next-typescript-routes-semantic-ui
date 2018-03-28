@@ -12,7 +12,7 @@ type Props = {
 	onFilterChange(state: State): void;
 }
 
-export default class SomeForm extends React.Component<Props, State> {
+export default class SomeFilterForm extends React.Component<Props, State> {
 	state = {
 		airlines: [],
 		search: '',
