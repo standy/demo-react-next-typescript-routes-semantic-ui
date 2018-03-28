@@ -10,6 +10,7 @@ const Layout = ({children, title = 'APP TITLE'}) => (
 			<meta charSet='utf-8'/>
 			<meta name='viewport' content='initial-scale=1.0, width=device-width'/>
 			<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.12/semantic.min.css" />
+			<link rel="stylesheet" href="/_next/static/style.css" />
 		</Head>
 
 		<nav>
