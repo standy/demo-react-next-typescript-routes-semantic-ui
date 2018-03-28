@@ -1,0 +1,2821 @@
+[
+  {
+    "flightNumber": "427",
+    "airline": {
+      "code": "BT",
+      "name": "airBaltic"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "CS3",
+      "name": "Бомбардье CS300"
+    },
+    "departureAirport": {
+      "code": "SVO",
+      "name": "Шереметьево",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T04:50:00",
+    "arrivalAirport": {
+      "code": "RIX",
+      "name": "Рига",
+      "cityCode": "RIX",
+      "cityName": "Рига",
+      "countryCode": "LV",
+      "countryName": "Латвия",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T06:35:00",
+    "travelTimeInMinutes": 105,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "U",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 0,
+        "unit": "NO",
+        "baggageSize": "230",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "20",
+        "totalPlaceWeight": null
+      },
+      "infant": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": "230",
+        "handBaggageOnePlaceWeight": "0",
+        "handBaggagePlaceCount": "0",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "10",
+        "totalPlaceWeight": null
+      }
+    },
+    "availSeats": 9
+  },
+  {
+    "flightNumber": "429",
+    "airline": {
+      "code": "BT",
+      "name": "airBaltic"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "CS3",
+      "name": "Бомбардье CS300"
+    },
+    "departureAirport": {
+      "code": "SVO",
+      "name": "Шереметьево",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": "E"
+    },
+    "departureTime": "2018-04-20T15:25:00",
+    "arrivalAirport": {
+      "code": "RIX",
+      "name": "Рига",
+      "cityCode": "RIX",
+      "cityName": "Рига",
+      "countryCode": "LV",
+      "countryName": "Латвия",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T17:10:00",
+    "travelTimeInMinutes": 105,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "U",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 0,
+        "unit": "PLACE",
+        "baggageSize": "230",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "20",
+        "totalPlaceWeight": null
+      },
+      "infant": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": "230",
+        "handBaggageOnePlaceWeight": "0",
+        "handBaggagePlaceCount": "0",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "10",
+        "totalPlaceWeight": null
+      }
+    },
+    "availSeats": 9
+  },
+  {
+    "flightNumber": "414",
+    "airline": {
+      "code": "TK",
+      "name": "Turkish Airlines"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "332",
+      "name": "Аэробус А330-200 JET"
+    },
+    "departureAirport": {
+      "code": "VKO",
+      "name": "Внуково",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T12:15:00",
+    "arrivalAirport": {
+      "code": "IST",
+      "name": "Ататюрк",
+      "cityCode": "IST",
+      "cityName": "Стамбул",
+      "countryCode": "TR",
+      "countryName": "Турция",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T15:15:00",
+    "travelTimeInMinutes": 180,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "W",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 30,
+        "unit": "KILOGRAM",
+        "baggageSize": "158",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "20",
+        "totalPlaceWeight": null
+      },
+      "infant": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": "158",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "10",
+        "totalPlaceWeight": null
+      }
+    },
+    "availSeats": 9
+  },
+  {
+    "flightNumber": "423",
+    "airline": {
+      "code": "BT",
+      "name": "airBaltic"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "CS3",
+      "name": "Бомбардье CS300"
+    },
+    "departureAirport": {
+      "code": "SVO",
+      "name": "Шереметьево",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T20:40:00",
+    "arrivalAirport": {
+      "code": "RIX",
+      "name": "Рига",
+      "cityCode": "RIX",
+      "cityName": "Рига",
+      "countryCode": "LV",
+      "countryName": "Латвия",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T22:20:00",
+    "travelTimeInMinutes": 100,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "Z",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 0,
+        "unit": "NO",
+        "baggageSize": "230",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "20",
+        "totalPlaceWeight": null
+      },
+      "infant": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": "230",
+        "handBaggageOnePlaceWeight": "0",
+        "handBaggagePlaceCount": "0",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "10",
+        "totalPlaceWeight": null
+      }
+    },
+    "availSeats": 9
+  },
+  {
+    "flightNumber": "418",
+    "airline": {
+      "code": "TK",
+      "name": "Turkish Airlines"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "73J",
+      "name": "Боинг 737-900 (winglets)"
+    },
+    "departureAirport": {
+      "code": "VKO",
+      "name": "Внуково",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": "A"
+    },
+    "departureTime": "2018-04-20T14:50:00",
+    "arrivalAirport": {
+      "code": "IST",
+      "name": "Ататюрк",
+      "cityCode": "IST",
+      "cityName": "Стамбул",
+      "countryCode": "TR",
+      "countryName": "Турция",
+      "terminal": "I"
+    },
+    "arrivalTime": "2018-04-20T18:00:00",
+    "travelTimeInMinutes": 190,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "P",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 30,
+        "unit": "KILOGRAM",
+        "baggageSize": "158",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "20",
+        "totalPlaceWeight": null
+      },
+      "infant": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": "158",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "10",
+        "totalPlaceWeight": null
+      }
+    },
+    "availSeats": 2
+  },
+  {
+    "flightNumber": "4901",
+    "airline": {
+      "code": "AF",
+      "name": "Air France"
+    },
+    "operatingAirline": {
+      "code": "SU",
+      "name": "Аэрофлот"
+    },
+    "aircraft": {
+      "code": "32B",
+      "name": "Аэробус A321 (Sharklets)"
+    },
+    "departureAirport": {
+      "code": "SVO",
+      "name": "Шереметьево",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T07:40:00",
+    "arrivalAirport": {
+      "code": "CDG",
+      "name": "Шарль-де-Голль",
+      "cityCode": "PAR",
+      "cityName": "Париж",
+      "countryCode": "FR",
+      "countryName": "Франция",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T10:35:00",
+    "travelTimeInMinutes": 235,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "E",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 9
+  },
+  {
+    "flightNumber": "414",
+    "airline": {
+      "code": "TK",
+      "name": "Turkish Airlines"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "332",
+      "name": "Аэробус А330-200 JET"
+    },
+    "departureAirport": {
+      "code": "VKO",
+      "name": "Внуково",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": "A"
+    },
+    "departureTime": "2018-04-20T12:15:00",
+    "arrivalAirport": {
+      "code": "IST",
+      "name": "Ататюрк",
+      "cityCode": "IST",
+      "cityName": "Стамбул",
+      "countryCode": "TR",
+      "countryName": "Турция",
+      "terminal": "I"
+    },
+    "arrivalTime": "2018-04-20T15:15:00",
+    "travelTimeInMinutes": 180,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "V",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 30,
+        "unit": "KILOGRAM",
+        "baggageSize": "158",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "20",
+        "totalPlaceWeight": null
+      },
+      "infant": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": "158",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "10",
+        "totalPlaceWeight": null
+      }
+    },
+    "availSeats": 7
+  },
+  {
+    "flightNumber": "414",
+    "airline": {
+      "code": "TK",
+      "name": "Turkish Airlines"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "332",
+      "name": "Аэробус А330-200 JET"
+    },
+    "departureAirport": {
+      "code": "VKO",
+      "name": "Внуково",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T12:15:00",
+    "arrivalAirport": {
+      "code": "IST",
+      "name": "Ататюрк",
+      "cityCode": "IST",
+      "cityName": "Стамбул",
+      "countryCode": "TR",
+      "countryName": "Турция",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T15:15:00",
+    "travelTimeInMinutes": 180,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "V",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 30,
+        "unit": "KILOGRAM",
+        "baggageSize": "158",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "20",
+        "totalPlaceWeight": null
+      },
+      "infant": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": "158",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "10",
+        "totalPlaceWeight": null
+      }
+    },
+    "availSeats": 5
+  },
+  {
+    "flightNumber": "2836",
+    "airline": {
+      "code": "SN",
+      "name": "Brussels Airlines"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "320",
+      "name": "Аэробус А320-100/200"
+    },
+    "departureAirport": {
+      "code": "DME",
+      "name": "Домодедово",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T15:00:00",
+    "arrivalAirport": {
+      "code": "BRU",
+      "name": "Национальный",
+      "cityCode": "BRU",
+      "cityName": "Брюссель",
+      "countryCode": "BE",
+      "countryName": "Бельгия",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T17:40:00",
+    "travelTimeInMinutes": 220,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "S",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 4
+  },
+  {
+    "flightNumber": "418",
+    "airline": {
+      "code": "TK",
+      "name": "Turkish Airlines"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "73J",
+      "name": "Боинг 737-900 (winglets)"
+    },
+    "departureAirport": {
+      "code": "VKO",
+      "name": "Внуково",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T14:50:00",
+    "arrivalAirport": {
+      "code": "IST",
+      "name": "Ататюрк",
+      "cityCode": "IST",
+      "cityName": "Стамбул",
+      "countryCode": "TR",
+      "countryName": "Турция",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T18:00:00",
+    "travelTimeInMinutes": 190,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "L",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 30,
+        "unit": "KILOGRAM",
+        "baggageSize": "158",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "20",
+        "totalPlaceWeight": null
+      },
+      "infant": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": "158",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "10",
+        "totalPlaceWeight": null
+      }
+    },
+    "availSeats": 2
+  },
+  {
+    "flightNumber": "172",
+    "airline": {
+      "code": "9U",
+      "name": "Air Moldova"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "320",
+      "name": "Аэробус А320-100/200"
+    },
+    "departureAirport": {
+      "code": "DME",
+      "name": "Домодедово",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T16:30:00",
+    "arrivalAirport": {
+      "code": "KIV",
+      "name": "Кишинев",
+      "cityCode": "KIV",
+      "cityName": "Кишинёв",
+      "countryCode": "MD",
+      "countryName": "Молдова",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T18:20:00",
+    "travelTimeInMinutes": 110,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "V",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": "158",
+        "handBaggageOnePlaceWeight": "0",
+        "handBaggagePlaceCount": "0",
+        "handBaggageSize": "115(50x40x25)",
+        "onePlaceWeight": "10",
+        "totalPlaceWeight": null
+      }
+    },
+    "availSeats": 9
+  },
+  {
+    "flightNumber": "7425",
+    "airline": {
+      "code": "BT",
+      "name": "airBaltic"
+    },
+    "operatingAirline": {
+      "code": "SU",
+      "name": "Аэрофлот"
+    },
+    "aircraft": {
+      "code": "73H",
+      "name": "Боинг 737-800 (winglets)"
+    },
+    "departureAirport": {
+      "code": "SVO",
+      "name": "Шереметьево",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T09:15:00",
+    "arrivalAirport": {
+      "code": "RIX",
+      "name": "Рига",
+      "cityCode": "RIX",
+      "cityName": "Рига",
+      "countryCode": "LV",
+      "countryName": "Латвия",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T10:50:00",
+    "travelTimeInMinutes": 95,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "W",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": "230",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "20",
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 4
+  },
+  {
+    "flightNumber": "1235",
+    "airline": {
+      "code": "TP",
+      "name": "TAP Portugal"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "320",
+      "name": "Аэробус А320-100/200"
+    },
+    "departureAirport": {
+      "code": "DME",
+      "name": "Домодедово",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T07:15:00",
+    "arrivalAirport": {
+      "code": "LIS",
+      "name": "Портела",
+      "cityCode": "LIS",
+      "cityName": "Лиссабон",
+      "countryCode": "PT",
+      "countryName": "Португалия",
+      "terminal": "1"
+    },
+    "arrivalTime": "2018-04-20T11:10:00",
+    "travelTimeInMinutes": 355,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "O",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 0,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 9
+  },
+  {
+    "flightNumber": "954",
+    "airline": {
+      "code": "B2",
+      "name": "Белавиа"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "735",
+      "name": "Боинг 737-500"
+    },
+    "departureAirport": {
+      "code": "DME",
+      "name": "Домодедово",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T05:40:00",
+    "arrivalAirport": {
+      "code": "MSQ",
+      "name": "Минск",
+      "cityCode": "MSQ",
+      "cityName": "Минск",
+      "countryCode": "BY",
+      "countryName": "Белоруссия",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T07:00:00",
+    "travelTimeInMinutes": 80,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "S",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": "158",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(50x40x20)",
+        "onePlaceWeight": "23",
+        "totalPlaceWeight": null
+      },
+      "infant": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": "115",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(50x40x20)",
+        "onePlaceWeight": "10",
+        "totalPlaceWeight": null
+      }
+    },
+    "availSeats": 9
+  },
+  {
+    "flightNumber": "7161",
+    "airline": {
+      "code": "AZ",
+      "name": "Alitalia"
+    },
+    "operatingAirline": {
+      "code": "SU",
+      "name": "Аэрофлот"
+    },
+    "aircraft": {
+      "code": "321",
+      "name": "Аэробус А321-100/200"
+    },
+    "departureAirport": {
+      "code": "SVO",
+      "name": "Шереметьево",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T08:50:00",
+    "arrivalAirport": {
+      "code": "FCO",
+      "name": "Фиумичино",
+      "cityCode": "ROM",
+      "cityName": "Рим",
+      "countryCode": "IT",
+      "countryName": "Италия",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T11:35:00",
+    "travelTimeInMinutes": 225,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "S",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 9
+  },
+  {
+    "flightNumber": "414",
+    "airline": {
+      "code": "TK",
+      "name": "Turkish Airlines"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "332",
+      "name": "Аэробус А330-200 JET"
+    },
+    "departureAirport": {
+      "code": "VKO",
+      "name": "Внуково",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": "A"
+    },
+    "departureTime": "2018-04-20T12:15:00",
+    "arrivalAirport": {
+      "code": "IST",
+      "name": "Ататюрк",
+      "cityCode": "IST",
+      "cityName": "Стамбул",
+      "countryCode": "TR",
+      "countryName": "Турция",
+      "terminal": "I"
+    },
+    "arrivalTime": "2018-04-20T15:15:00",
+    "travelTimeInMinutes": 180,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "T",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 30,
+        "unit": "KILOGRAM",
+        "baggageSize": "158",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "20",
+        "totalPlaceWeight": null
+      },
+      "infant": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": "158",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "10",
+        "totalPlaceWeight": null
+      }
+    },
+    "availSeats": 9
+  },
+  {
+    "flightNumber": "5357",
+    "airline": {
+      "code": "IB",
+      "name": "Iberia"
+    },
+    "operatingAirline": {
+      "code": "VY",
+      "name": "Vueling Airlines"
+    },
+    "aircraft": {
+      "code": "320",
+      "name": "Аэробус А320-100/200"
+    },
+    "departureAirport": {
+      "code": "DME",
+      "name": "Домодедово",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": "I"
+    },
+    "departureTime": "2018-04-20T01:10:00",
+    "arrivalAirport": {
+      "code": "BCN",
+      "name": "Барселона",
+      "cityCode": "BCN",
+      "cityName": "Барселона",
+      "countryCode": "ES",
+      "countryName": "Испания",
+      "terminal": "1"
+    },
+    "arrivalTime": "2018-04-20T04:40:00",
+    "travelTimeInMinutes": 270,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "Q",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 4
+  },
+  {
+    "flightNumber": "5357",
+    "airline": {
+      "code": "IB",
+      "name": "Iberia"
+    },
+    "operatingAirline": {
+      "code": "VY",
+      "name": "Vueling Airlines"
+    },
+    "aircraft": {
+      "code": "320",
+      "name": "Аэробус А320-100/200"
+    },
+    "departureAirport": {
+      "code": "DME",
+      "name": "Домодедово",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T01:10:00",
+    "arrivalAirport": {
+      "code": "BCN",
+      "name": "Барселона",
+      "cityCode": "BCN",
+      "cityName": "Барселона",
+      "countryCode": "ES",
+      "countryName": "Испания",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T04:40:00",
+    "travelTimeInMinutes": 270,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "O",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 4
+  },
+  {
+    "flightNumber": "1235",
+    "airline": {
+      "code": "TP",
+      "name": "TAP Portugal"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "320",
+      "name": "Аэробус А320-100/200"
+    },
+    "departureAirport": {
+      "code": "DME",
+      "name": "Домодедово",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T07:15:00",
+    "arrivalAirport": {
+      "code": "LIS",
+      "name": "Портела",
+      "cityCode": "LIS",
+      "cityName": "Лиссабон",
+      "countryCode": "PT",
+      "countryName": "Португалия",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T11:10:00",
+    "travelTimeInMinutes": 355,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "O",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 0,
+        "unit": "NO",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 9
+  },
+  {
+    "flightNumber": "1235",
+    "airline": {
+      "code": "TP",
+      "name": "TAP Portugal"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "320",
+      "name": "Аэробус А320-100/200"
+    },
+    "departureAirport": {
+      "code": "DME",
+      "name": "Домодедово",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T07:15:00",
+    "arrivalAirport": {
+      "code": "LIS",
+      "name": "Портела",
+      "cityCode": "LIS",
+      "cityName": "Лиссабон",
+      "countryCode": "PT",
+      "countryName": "Португалия",
+      "terminal": "1"
+    },
+    "arrivalTime": "2018-04-20T11:10:00",
+    "travelTimeInMinutes": 355,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "O",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 0,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 9
+  },
+  {
+    "flightNumber": "5357",
+    "airline": {
+      "code": "IB",
+      "name": "Iberia"
+    },
+    "operatingAirline": {
+      "code": "VY",
+      "name": "Vueling Airlines"
+    },
+    "aircraft": {
+      "code": "320",
+      "name": "Аэробус А320-100/200"
+    },
+    "departureAirport": {
+      "code": "DME",
+      "name": "Домодедово",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": "I"
+    },
+    "departureTime": "2018-04-20T01:10:00",
+    "arrivalAirport": {
+      "code": "BCN",
+      "name": "Барселона",
+      "cityCode": "BCN",
+      "cityName": "Барселона",
+      "countryCode": "ES",
+      "countryName": "Испания",
+      "terminal": "1"
+    },
+    "arrivalTime": "2018-04-20T04:40:00",
+    "travelTimeInMinutes": 270,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "Q",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 4
+  },
+  {
+    "flightNumber": "1364",
+    "airline": {
+      "code": "FB",
+      "name": "Болгарские авиалинии"
+    },
+    "operatingAirline": {
+      "code": "SU",
+      "name": "Аэрофлот"
+    },
+    "aircraft": {
+      "code": "320",
+      "name": "Аэробус А320-100/200"
+    },
+    "departureAirport": {
+      "code": "SVO",
+      "name": "Шереметьево",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T08:20:00",
+    "arrivalAirport": {
+      "code": "SOF",
+      "name": "София",
+      "cityCode": "SOF",
+      "cityName": "София",
+      "countryCode": "BG",
+      "countryName": "Болгария",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T11:30:00",
+    "travelTimeInMinutes": 190,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "R",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 4
+  },
+  {
+    "flightNumber": "1235",
+    "airline": {
+      "code": "TP",
+      "name": "TAP Portugal"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "320",
+      "name": "Аэробус А320-100/200"
+    },
+    "departureAirport": {
+      "code": "DME",
+      "name": "Домодедово",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T07:15:00",
+    "arrivalAirport": {
+      "code": "LIS",
+      "name": "Портела",
+      "cityCode": "LIS",
+      "cityName": "Лиссабон",
+      "countryCode": "PT",
+      "countryName": "Португалия",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T11:10:00",
+    "travelTimeInMinutes": 355,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "O",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 0,
+        "unit": "NO",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 9
+  },
+  {
+    "flightNumber": "420",
+    "airline": {
+      "code": "TK",
+      "name": "Turkish Airlines"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "32B",
+      "name": "Аэробус A321 (Sharklets)"
+    },
+    "departureAirport": {
+      "code": "VKO",
+      "name": "Внуково",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": "A"
+    },
+    "departureTime": "2018-04-20T04:20:00",
+    "arrivalAirport": {
+      "code": "IST",
+      "name": "Ататюрк",
+      "cityCode": "IST",
+      "cityName": "Стамбул",
+      "countryCode": "TR",
+      "countryName": "Турция",
+      "terminal": "I"
+    },
+    "arrivalTime": "2018-04-20T07:15:00",
+    "travelTimeInMinutes": 175,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "Q",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 30,
+        "unit": "KILOGRAM",
+        "baggageSize": "158",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "20",
+        "totalPlaceWeight": null
+      },
+      "infant": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": "158",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "10",
+        "totalPlaceWeight": null
+      }
+    },
+    "availSeats": 9
+  },
+  {
+    "flightNumber": "5357",
+    "airline": {
+      "code": "IB",
+      "name": "Iberia"
+    },
+    "operatingAirline": {
+      "code": "VY",
+      "name": "Vueling Airlines"
+    },
+    "aircraft": {
+      "code": "320",
+      "name": "Аэробус А320-100/200"
+    },
+    "departureAirport": {
+      "code": "DME",
+      "name": "Домодедово",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T01:10:00",
+    "arrivalAirport": {
+      "code": "BCN",
+      "name": "Барселона",
+      "cityCode": "BCN",
+      "cityName": "Барселона",
+      "countryCode": "ES",
+      "countryName": "Испания",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T04:40:00",
+    "travelTimeInMinutes": 270,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "O",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 4
+  },
+  {
+    "flightNumber": "676",
+    "airline": {
+      "code": "LO",
+      "name": "LOT Polish Airlines"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "E95",
+      "name": "Эмбраер 195"
+    },
+    "departureAirport": {
+      "code": "SVO",
+      "name": "Шереметьево",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": "E"
+    },
+    "departureTime": "2018-04-20T14:40:00",
+    "arrivalAirport": {
+      "code": "WAW",
+      "name": "Фредерик Шопен",
+      "cityCode": "WAW",
+      "cityName": "Варшава",
+      "countryCode": "PL",
+      "countryName": "Польша",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T15:55:00",
+    "travelTimeInMinutes": 135,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "Q",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 0,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 3
+  },
+  {
+    "flightNumber": "5674",
+    "airline": {
+      "code": "LO",
+      "name": "LOT Polish Airlines"
+    },
+    "operatingAirline": {
+      "code": "SU",
+      "name": "Аэрофлот"
+    },
+    "aircraft": {
+      "code": "SU9",
+      "name": "Sukhoi Superjet 100-95"
+    },
+    "departureAirport": {
+      "code": "SVO",
+      "name": "Шереметьево",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T07:45:00",
+    "arrivalAirport": {
+      "code": "WAW",
+      "name": "Фредерик Шопен",
+      "cityCode": "WAW",
+      "cityName": "Варшава",
+      "countryCode": "PL",
+      "countryName": "Польша",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T08:50:00",
+    "travelTimeInMinutes": 125,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "T",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 4
+  },
+  {
+    "flightNumber": "3179",
+    "airline": {
+      "code": "KL",
+      "name": "KLM"
+    },
+    "operatingAirline": {
+      "code": "SU",
+      "name": "Аэрофлот"
+    },
+    "aircraft": {
+      "code": "32B",
+      "name": "Аэробус A321 (Sharklets)"
+    },
+    "departureAirport": {
+      "code": "SVO",
+      "name": "Шереметьево",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T14:35:00",
+    "arrivalAirport": {
+      "code": "AMS",
+      "name": "Схипхол",
+      "cityCode": "AMS",
+      "cityName": "Амстердам",
+      "countryCode": "NL",
+      "countryName": "Нидерланды",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T17:05:00",
+    "travelTimeInMinutes": 210,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "K",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 9
+  },
+  {
+    "flightNumber": "5357",
+    "airline": {
+      "code": "IB",
+      "name": "Iberia"
+    },
+    "operatingAirline": {
+      "code": "VY",
+      "name": "Vueling Airlines"
+    },
+    "aircraft": {
+      "code": "320",
+      "name": "Аэробус А320-100/200"
+    },
+    "departureAirport": {
+      "code": "DME",
+      "name": "Домодедово",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": "I"
+    },
+    "departureTime": "2018-04-20T01:10:00",
+    "arrivalAirport": {
+      "code": "BCN",
+      "name": "Барселона",
+      "cityCode": "BCN",
+      "cityName": "Барселона",
+      "countryCode": "ES",
+      "countryName": "Испания",
+      "terminal": "1"
+    },
+    "arrivalTime": "2018-04-20T04:40:00",
+    "travelTimeInMinutes": 270,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "Q",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 4
+  },
+  {
+    "flightNumber": "6842",
+    "airline": {
+      "code": "AY",
+      "name": "Finnair"
+    },
+    "operatingAirline": {
+      "code": "SU",
+      "name": "Аэрофлот"
+    },
+    "aircraft": {
+      "code": "SU9",
+      "name": "Sukhoi Superjet 100-95"
+    },
+    "departureAirport": {
+      "code": "SVO",
+      "name": "Шереметьево",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": "D"
+    },
+    "departureTime": "2018-04-20T08:30:00",
+    "arrivalAirport": {
+      "code": "HEL",
+      "name": "Хельсинки-Вантаа",
+      "cityCode": "HEL",
+      "cityName": "Хельсинки",
+      "countryCode": "FI",
+      "countryName": "Финляндия",
+      "terminal": "2"
+    },
+    "arrivalTime": "2018-04-20T10:20:00",
+    "travelTimeInMinutes": 110,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "L",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 4
+  },
+  {
+    "flightNumber": "387",
+    "airline": {
+      "code": "PC",
+      "name": "Pegasus"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "320",
+      "name": "Аэробус А320-100/200"
+    },
+    "departureAirport": {
+      "code": "DME",
+      "name": "Домодедово",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": "1"
+    },
+    "departureTime": "2018-04-20T16:00:00",
+    "arrivalAirport": {
+      "code": "SAW",
+      "name": "Сабиха Гёкчен",
+      "cityCode": "IST",
+      "cityName": "Стамбул",
+      "countryCode": "TR",
+      "countryName": "Турция",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T19:05:00",
+    "travelTimeInMinutes": 185,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "F",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 20,
+        "unit": "KILOGRAM",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 9
+  },
+  {
+    "flightNumber": "6842",
+    "airline": {
+      "code": "AY",
+      "name": "Finnair"
+    },
+    "operatingAirline": {
+      "code": "SU",
+      "name": "Аэрофлот"
+    },
+    "aircraft": {
+      "code": "SU9",
+      "name": "Sukhoi Superjet 100-95"
+    },
+    "departureAirport": {
+      "code": "SVO",
+      "name": "Шереметьево",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T08:30:00",
+    "arrivalAirport": {
+      "code": "HEL",
+      "name": "Хельсинки-Вантаа",
+      "cityCode": "HEL",
+      "cityName": "Хельсинки",
+      "countryCode": "FI",
+      "countryName": "Финляндия",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T10:20:00",
+    "travelTimeInMinutes": 110,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "T",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 4
+  },
+  {
+    "flightNumber": "2836",
+    "airline": {
+      "code": "SN",
+      "name": "Brussels Airlines"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "320",
+      "name": "Аэробус А320-100/200"
+    },
+    "departureAirport": {
+      "code": "DME",
+      "name": "Домодедово",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T15:00:00",
+    "arrivalAirport": {
+      "code": "BRU",
+      "name": "Национальный",
+      "cityCode": "BRU",
+      "cityName": "Брюссель",
+      "countryCode": "BE",
+      "countryName": "Бельгия",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T17:40:00",
+    "travelTimeInMinutes": 220,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "Q",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 9
+  },
+  {
+    "flightNumber": "1045",
+    "airline": {
+      "code": "AF",
+      "name": "Air France"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "319",
+      "name": "Аэробус А319"
+    },
+    "departureAirport": {
+      "code": "SVO",
+      "name": "Шереметьево",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": "E"
+    },
+    "departureTime": "2018-04-20T15:10:00",
+    "arrivalAirport": {
+      "code": "CDG",
+      "name": "Шарль-де-Голль",
+      "cityCode": "PAR",
+      "cityName": "Париж",
+      "countryCode": "FR",
+      "countryName": "Франция",
+      "terminal": "2E"
+    },
+    "arrivalTime": "2018-04-20T18:05:00",
+    "travelTimeInMinutes": 235,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "W",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 2
+  },
+  {
+    "flightNumber": "6842",
+    "airline": {
+      "code": "AY",
+      "name": "Finnair"
+    },
+    "operatingAirline": {
+      "code": "SU",
+      "name": "Аэрофлот"
+    },
+    "aircraft": {
+      "code": "SU9",
+      "name": "Sukhoi Superjet 100-95"
+    },
+    "departureAirport": {
+      "code": "SVO",
+      "name": "Шереметьево",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T08:30:00",
+    "arrivalAirport": {
+      "code": "HEL",
+      "name": "Хельсинки-Вантаа",
+      "cityCode": "HEL",
+      "cityName": "Хельсинки",
+      "countryCode": "FI",
+      "countryName": "Финляндия",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T10:20:00",
+    "travelTimeInMinutes": 110,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "P",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 4
+  },
+  {
+    "flightNumber": "4893",
+    "airline": {
+      "code": "OK",
+      "name": "Czech Airlines"
+    },
+    "operatingAirline": {
+      "code": "SU",
+      "name": "Аэрофлот"
+    },
+    "aircraft": {
+      "code": "320",
+      "name": "Аэробус А320-100/200"
+    },
+    "departureAirport": {
+      "code": "SVO",
+      "name": "Шереметьево",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T07:30:00",
+    "arrivalAirport": {
+      "code": "PRG",
+      "name": "Ружин",
+      "cityCode": "PRG",
+      "cityName": "Прага",
+      "countryCode": "CZ",
+      "countryName": "Чехия",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T09:15:00",
+    "travelTimeInMinutes": 165,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "X",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 7
+  },
+  {
+    "flightNumber": "2580",
+    "airline": {
+      "code": "SU",
+      "name": "Аэрофлот"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "321",
+      "name": "Аэробус А321-100/200"
+    },
+    "departureAirport": {
+      "code": "SVO",
+      "name": "Шереметьево",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T07:20:00",
+    "arrivalAirport": {
+      "code": "LHR",
+      "name": "Хитроу",
+      "cityCode": "LON",
+      "cityName": "Лондон",
+      "countryCode": "GB",
+      "countryName": "Великобритания",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T09:30:00",
+    "travelTimeInMinutes": 250,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "L",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": "158",
+        "handBaggageOnePlaceWeight": "10",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "23",
+        "totalPlaceWeight": null
+      },
+      "infant": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": "115",
+        "handBaggageOnePlaceWeight": "0",
+        "handBaggagePlaceCount": "0",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "10",
+        "totalPlaceWeight": null
+      }
+    },
+    "availSeats": 9
+  },
+  {
+    "flightNumber": "6842",
+    "airline": {
+      "code": "AY",
+      "name": "Finnair"
+    },
+    "operatingAirline": {
+      "code": "SU",
+      "name": "Аэрофлот"
+    },
+    "aircraft": {
+      "code": "SU9",
+      "name": "Sukhoi Superjet 100-95"
+    },
+    "departureAirport": {
+      "code": "SVO",
+      "name": "Шереметьево",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T08:30:00",
+    "arrivalAirport": {
+      "code": "HEL",
+      "name": "Хельсинки-Вантаа",
+      "cityCode": "HEL",
+      "cityName": "Хельсинки",
+      "countryCode": "FI",
+      "countryName": "Финляндия",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T10:20:00",
+    "travelTimeInMinutes": 110,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "N",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 4
+  },
+  {
+    "flightNumber": "651",
+    "airline": {
+      "code": "JU",
+      "name": "Air Serbia"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "319",
+      "name": "Аэробус А319"
+    },
+    "departureAirport": {
+      "code": "SVO",
+      "name": "Шереметьево",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T11:00:00",
+    "arrivalAirport": {
+      "code": "BEG",
+      "name": "Никола Тесла",
+      "cityCode": "BEG",
+      "cityName": "Белград",
+      "countryCode": "RS",
+      "countryName": "Сербия",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T12:50:00",
+    "travelTimeInMinutes": 170,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "U",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": "158",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "23",
+        "totalPlaceWeight": null
+      },
+      "infant": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": "158",
+        "handBaggageOnePlaceWeight": "0",
+        "handBaggagePlaceCount": "0",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "23",
+        "totalPlaceWeight": null
+      }
+    },
+    "availSeats": 7
+  },
+  {
+    "flightNumber": "364",
+    "airline": {
+      "code": "FB",
+      "name": "Болгарские авиалинии"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "E90",
+      "name": "Эмбраер 190"
+    },
+    "departureAirport": {
+      "code": "SVO",
+      "name": "Шереметьево",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T19:35:00",
+    "arrivalAirport": {
+      "code": "SOF",
+      "name": "София",
+      "cityCode": "SOF",
+      "cityName": "София",
+      "countryCode": "BG",
+      "countryName": "Болгария",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T22:30:00",
+    "travelTimeInMinutes": 175,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "Y",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 4
+  },
+  {
+    "flightNumber": "6844",
+    "airline": {
+      "code": "AY",
+      "name": "Finnair"
+    },
+    "operatingAirline": {
+      "code": "SU",
+      "name": "Аэрофлот"
+    },
+    "aircraft": {
+      "code": "32A",
+      "name": "Аэробус A320-200 (Sharklets)"
+    },
+    "departureAirport": {
+      "code": "SVO",
+      "name": "Шереметьево",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T18:20:00",
+    "arrivalAirport": {
+      "code": "HEL",
+      "name": "Хельсинки-Вантаа",
+      "cityCode": "HEL",
+      "cityName": "Хельсинки",
+      "countryCode": "FI",
+      "countryName": "Финляндия",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T20:05:00",
+    "travelTimeInMinutes": 105,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "S",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 4
+  },
+  {
+    "flightNumber": "3179",
+    "airline": {
+      "code": "KL",
+      "name": "KLM"
+    },
+    "operatingAirline": {
+      "code": "SU",
+      "name": "Аэрофлот"
+    },
+    "aircraft": {
+      "code": "32B",
+      "name": "Аэробус A321 (Sharklets)"
+    },
+    "departureAirport": {
+      "code": "SVO",
+      "name": "Шереметьево",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T14:35:00",
+    "arrivalAirport": {
+      "code": "AMS",
+      "name": "Схипхол",
+      "cityCode": "AMS",
+      "cityName": "Амстердам",
+      "countryCode": "NL",
+      "countryName": "Нидерланды",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T17:05:00",
+    "travelTimeInMinutes": 210,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "H",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 9
+  },
+  {
+    "flightNumber": "6842",
+    "airline": {
+      "code": "AY",
+      "name": "Finnair"
+    },
+    "operatingAirline": {
+      "code": "SU",
+      "name": "Аэрофлот"
+    },
+    "aircraft": {
+      "code": "SU9",
+      "name": "Sukhoi Superjet 100-95"
+    },
+    "departureAirport": {
+      "code": "SVO",
+      "name": "Шереметьево",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T08:30:00",
+    "arrivalAirport": {
+      "code": "HEL",
+      "name": "Хельсинки-Вантаа",
+      "cityCode": "HEL",
+      "cityName": "Хельсинки",
+      "countryCode": "FI",
+      "countryName": "Финляндия",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T10:20:00",
+    "travelTimeInMinutes": 110,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "V",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 4
+  },
+  {
+    "flightNumber": "1501",
+    "airline": {
+      "code": "KK",
+      "name": "AtlasGlobal"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "319",
+      "name": "Аэробус А319"
+    },
+    "departureAirport": {
+      "code": "SVO",
+      "name": "Шереметьево",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T15:50:00",
+    "arrivalAirport": {
+      "code": "IST",
+      "name": "Ататюрк",
+      "cityCode": "IST",
+      "cityName": "Стамбул",
+      "countryCode": "TR",
+      "countryName": "Турция",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T18:50:00",
+    "travelTimeInMinutes": 180,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "T",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 30,
+        "unit": "KILOGRAM",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 9
+  },
+  {
+    "flightNumber": "5357",
+    "airline": {
+      "code": "IB",
+      "name": "Iberia"
+    },
+    "operatingAirline": {
+      "code": "VY",
+      "name": "Vueling Airlines"
+    },
+    "aircraft": {
+      "code": "320",
+      "name": "Аэробус А320-100/200"
+    },
+    "departureAirport": {
+      "code": "DME",
+      "name": "Домодедово",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T01:10:00",
+    "arrivalAirport": {
+      "code": "BCN",
+      "name": "Барселона",
+      "cityCode": "BCN",
+      "cityName": "Барселона",
+      "countryCode": "ES",
+      "countryName": "Испания",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T04:40:00",
+    "travelTimeInMinutes": 270,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "O",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 4
+  },
+  {
+    "flightNumber": "416",
+    "airline": {
+      "code": "TK",
+      "name": "Turkish Airlines"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "333",
+      "name": "Аэробус А330-300"
+    },
+    "departureAirport": {
+      "code": "VKO",
+      "name": "Внуково",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T20:40:00",
+    "arrivalAirport": {
+      "code": "IST",
+      "name": "Ататюрк",
+      "cityCode": "IST",
+      "cityName": "Стамбул",
+      "countryCode": "TR",
+      "countryName": "Турция",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T23:45:00",
+    "travelTimeInMinutes": 185,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "Q",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 30,
+        "unit": "KILOGRAM",
+        "baggageSize": "158",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "20",
+        "totalPlaceWeight": null
+      },
+      "infant": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": "158",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "10",
+        "totalPlaceWeight": null
+      }
+    },
+    "availSeats": 4
+  },
+  {
+    "flightNumber": "4433",
+    "airline": {
+      "code": "S7",
+      "name": "S7 Airlines"
+    },
+    "operatingAirline": {
+      "code": "B2",
+      "name": "Белавиа"
+    },
+    "aircraft": {
+      "code": "733",
+      "name": "Боинг 737-300"
+    },
+    "departureAirport": {
+      "code": "DME",
+      "name": "Домодедово",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T09:00:00",
+    "arrivalAirport": {
+      "code": "MSQ",
+      "name": "Минск",
+      "cityCode": "MSQ",
+      "cityName": "Минск",
+      "countryCode": "BY",
+      "countryName": "Белоруссия",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T10:20:00",
+    "travelTimeInMinutes": 80,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "W",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": "158",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "23",
+        "totalPlaceWeight": null
+      },
+      "infant": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": "115",
+        "handBaggageOnePlaceWeight": "8",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "115(55x40x20)",
+        "onePlaceWeight": "10",
+        "totalPlaceWeight": null
+      }
+    },
+    "availSeats": 7
+  },
+  {
+    "flightNumber": "900",
+    "airline": {
+      "code": "KL",
+      "name": "KLM"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "73H",
+      "name": "Боинг 737-800 (winglets)"
+    },
+    "departureAirport": {
+      "code": "SVO",
+      "name": "Шереметьево",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T05:45:00",
+    "arrivalAirport": {
+      "code": "AMS",
+      "name": "Схипхол",
+      "cityCode": "AMS",
+      "cityName": "Амстердам",
+      "countryCode": "NL",
+      "countryName": "Нидерланды",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T08:10:00",
+    "travelTimeInMinutes": 205,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "K",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 9
+  },
+  {
+    "flightNumber": "5357",
+    "airline": {
+      "code": "IB",
+      "name": "Iberia"
+    },
+    "operatingAirline": {
+      "code": "VY",
+      "name": "Vueling Airlines"
+    },
+    "aircraft": {
+      "code": "320",
+      "name": "Аэробус А320-100/200"
+    },
+    "departureAirport": {
+      "code": "DME",
+      "name": "Домодедово",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T01:10:00",
+    "arrivalAirport": {
+      "code": "BCN",
+      "name": "Барселона",
+      "cityCode": "BCN",
+      "cityName": "Барселона",
+      "countryCode": "ES",
+      "countryName": "Испания",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T04:40:00",
+    "travelTimeInMinutes": 270,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "O",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": null,
+        "handBaggageOnePlaceWeight": null,
+        "handBaggagePlaceCount": null,
+        "handBaggageSize": null,
+        "onePlaceWeight": null,
+        "totalPlaceWeight": null
+      },
+      "infant": null
+    },
+    "availSeats": 4
+  },
+  {
+    "flightNumber": "236",
+    "airline": {
+      "code": "BA",
+      "name": "British Airways"
+    },
+    "operatingAirline": null,
+    "aircraft": {
+      "code": "321",
+      "name": "Аэробус А321-100/200"
+    },
+    "departureAirport": {
+      "code": "DME",
+      "name": "Домодедово",
+      "cityCode": "MOW",
+      "cityName": "Москва",
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "terminal": null
+    },
+    "departureTime": "2018-04-20T05:40:00",
+    "arrivalAirport": {
+      "code": "LHR",
+      "name": "Хитроу",
+      "cityCode": "LON",
+      "cityName": "Лондон",
+      "countryCode": "GB",
+      "countryName": "Великобритания",
+      "terminal": null
+    },
+    "arrivalTime": "2018-04-20T07:55:00",
+    "travelTimeInMinutes": 255,
+    "timeStopInMinutes": null,
+    "flightClass": "ECONOMY",
+    "fareBasisCode": "M",
+    "transitVisaCode": null,
+    "technicalStops": [],
+    "luggage": {
+      "adult": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": "203",
+        "handBaggageOnePlaceWeight": "23",
+        "handBaggagePlaceCount": "1",
+        "handBaggageSize": "126(56x45x25)",
+        "onePlaceWeight": "23",
+        "totalPlaceWeight": null
+      },
+      "infant": {
+        "value": 1,
+        "unit": "PLACE",
+        "baggageSize": "203",
+        "handBaggageOnePlaceWeight": "0",
+        "handBaggagePlaceCount": "0",
+        "handBaggageSize": "126(56x45x25)",
+        "onePlaceWeight": "23",
+        "totalPlaceWeight": null
+      }
+    },
+    "availSeats": 9
+  }
+]
