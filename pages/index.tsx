@@ -14,31 +14,39 @@ const MyButton = styled.button`
 	border-radius: 3px;
 `;
 
-// Define our `fg` and `bg` on the theme
-const theme = {
-	fg: 'palevioletred',
-	bg: 'white'
-};
+
+const Container = styled.div`
+	border: 5px solid ${props => props.theme.fg};
+	outline: 5px solid ${props => props.theme.bg};
+	font-size: 1em;
+	margin: 1em;
+	padding: 0.25em 1em;
+	border-radius: 3px;
+`
+
 
 // This theme swaps `fg` and `bg`
-const invertTheme = ({fg, bg}) => ({
-	fg: bg,
-	bg: fg
-});
+const invertTheme = {
+	fg: 'cyan',
+};
 
 
 export default () => (
-	<ThemeProvider theme={theme}>
+	
 		<Layout>
 
-			<MyButton>Default Theme</MyButton>
+			<Container>
 
-			<Divider/>
+				<MyButton>Default Theme</MyButton>
 
-			<ThemeProvider theme={invertTheme}>
-				<MyButton>Inverted Theme</MyButton>
-			</ThemeProvider>
+				<Divider/>
 
+				<ThemeProvider theme={invertTheme}>
+					<Container>
+						<MyButton>Inverted Theme</MyButton>
+					</Container>
+				</ThemeProvider>
+			</Container>
 		</Layout>
-	</ThemeProvider>
+	
 );

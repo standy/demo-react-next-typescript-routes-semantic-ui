@@ -2,8 +2,14 @@ import React from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
 import {Menu, Divider} from 'semantic-ui-react';
+import {ThemeProvider} from 'styled-components';
 
+const theme = {
+	fg: 'red',
+	bg: 'blue'
+};
 const Layout = ({children, title = 'APP TITLE'}) => (
+	<ThemeProvider theme={theme}>
 	<div className="layout">
 		<Head>
 			<title>{title}</title>
@@ -23,6 +29,9 @@ const Layout = ({children, title = 'APP TITLE'}) => (
 				<Link href='/demo' passHref>
 					<Menu.Item as='a'>DemoPage</Menu.Item>
 				</Link>
+				<Link href='/some' passHref>
+					<Menu.Item as='a'>SomePage</Menu.Item>
+				</Link>
 			</Menu>
 		</nav>
 
@@ -36,11 +45,14 @@ const Layout = ({children, title = 'APP TITLE'}) => (
 				margin: 0 auto;
 			}
 
+
 			nav {
 				padding: 20px 0;
 			}
 		`}</style>
 	</div>
+	</ThemeProvider>
+	
 );
 
 export default Layout;
